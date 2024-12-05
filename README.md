@@ -25,27 +25,13 @@ Launching
 
 wordpress1:
 
-    root@Jakub-T480s:/home/jakub/dockercompose-nginx-reverse-proxy# curl mly0037_1.eb212.local
-    	<!DOCTYPE html>
-    	<html>
-    	  <head>
-    	    <title>STRANKA 1</title>
-    	   </head>
-    	   <body>
-    	      <h1>mly0037_1.eb212.local</h1>
-    	   </body>
-    	</htm
+![image](https://github.com/user-attachments/assets/8077a19f-6291-4494-af6d-4d69106b1531)
+
 wordpress2:
  
-    root@Jakub-T480s:/home/jakub/dockercompose-nginx-reverse-proxy# curl mly0037_2.eb212.local
-    <!DOCTYPE html>
-    <html>
-      <head>
-        <title>STRANKA 2</title>
-       </head>
-       <body>
-          <h1>mly0037_2.eb212.local</h1>
-       </body>
-    </html>
+![image](https://github.com/user-attachments/assets/b1ba8888-01b8-4110-aa06-c946411bd4f3)
+
 
 wordpress3:
+
+...
