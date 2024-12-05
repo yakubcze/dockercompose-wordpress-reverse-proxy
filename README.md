@@ -1,6 +1,12 @@
 
 Launching
 ---------
+**Create directories for wordpress instances:**
+	
+ 	for i in {1..3}; do
+  		mkdir wordpress$i
+    	done
+
 **Build:**
 
     docker compose up -d
