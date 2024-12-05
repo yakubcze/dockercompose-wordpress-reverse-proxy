@@ -1,0 +1,6 @@
+wordpress1/*
+wordpress2/*
+wordpress3/*
+!wordpress1/
+!wordpress2/
+!wordpress3/
